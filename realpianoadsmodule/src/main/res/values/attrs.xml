@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <declare-styleable name="Template_View" tools:ignore="ResourceName">
+        <attr name="template_type" format="reference" />
+        <attr name="template_min_height" format="integer" />
+    </declare-styleable>
+</resources>
